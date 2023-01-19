@@ -12,5 +12,27 @@ This python script is to reproduce the CTM simulation driven by the LWR model.
 class CTM_w_CD:
 # Attributes are listed below.
 
-    
-    
+nu,ner of cell
+length per cell
+
+time per step
+number of time
+
+omega? hard to understand?
+??
+??
+
+NI: number of inflow
+NO: number of outflow
+
+numCAV: number of CAV vehicle
+
+??alpha: parameter to be found (go to the paper)
+cd:??
+
+dem_in??
+sup_out?
+dem_hat_in:???
+sup_check_out:???
+capacties: capacity?
+
